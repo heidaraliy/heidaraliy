@@ -1,0 +1,4 @@
+- 👋 Hi, I’m hida.
+- 👀 I’m interested in game development, automation, and machine learning, along with blockchain engineering and design.
+- 🌱 I’m currently learning Java and Solidity, Java at college, and Solidity when I have free time to poke around.
+- 💞️ I’m looking to collaborate on various projects, I'm fairly new to programming and engineering, but hungry for more, as usual. 
