@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Heidar.
 - 👀 I’m interested in automation and machine learning, and I really like experimenting with financial systems and exchange APIs, and I'm working on incorporating the two through quantitative analysis and statistical approaches to trading. I also really like front-end engineering and website design, I've built a couple of websites using React and Tailwind CSS.
 - 🌱 So many languages to learn, it's hard to pick. Java will always be a favorite of mine because I began learning it first, but JavaScript and Python are a lot easier to get into and build with. While continuing to build my knowledge base in these languages, I'm also trying to learn SQL as well as Rust (just dabbling).
-Aside from this, I also like to dabble in Solidity, it's similar to Java so I can understand it and I like the simplicity of it.
+- Aside from this, I also like to dabble in Solidity, it's similar to Java so I can understand it and I like the simplicity of it.
