@@ -6,7 +6,7 @@ i'm currently working on [SilkForest](silkforest.xyz) -- i want to give back to 
 ---
 
 ### me going crazy on wakatime:
-[![heidar's WakaTime stats!](https://github-readme-stats.vercel.app/api/wakatime?username=0xhowl)](https://github.com/heidaraliy/github-readme-stats)
+[![heidar's WakaTime stats!](https://github-readme-stats.vercel.app/api/wakatime?username=0xsora)](https://github.com/heidaraliy/github-readme-stats)
 
 ---
 
