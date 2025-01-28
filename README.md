@@ -5,6 +5,6 @@ i'm currently working on [SilkForest](https://www.silkforest.xyz) -- i want to g
 
 ---
 
-### me going crazy on wakatime:
+### i'm bad at commiting code:
 [![heidar's WakaTime stats!](https://github-readme-stats.vercel.app/api/wakatime?username=0xsora&layout=compact)](https://github.com/heidaraliy/github-readme-stats)
 
