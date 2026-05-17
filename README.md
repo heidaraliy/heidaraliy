@@ -1,6 +1,5 @@
-**hi, it's me!**
+## hi, it's me!
 
-- i'm a software engineer at [**Devoted Health**](https://devoted.com).
-- i work on the member experience team, scaffolding and building our ai infrastructure, especially around evaluations, guardrails, and agentic workflows and orchestration.
-- in my free time, i like to build audio-based software (especially to generate ambience) and have been working on Lune, a massively-multiplayer action platformer, created from the ground up on a bespoke game engine.
-
+- software engineer at [**Devoted Health**](https://devoted.com), working on AI infrastructure and member experience.
+- very passionate about AI accuracy, guardrails, evaluations, and making LLM systems more predictable, reliable, and useful.
+- outside work, i build audio tools, ambient software, terminal apps, and **Lune** — a massively multiplayer action platformer powered by a bespoke C++ engine.
